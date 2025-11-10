@@ -1,71 +1,45 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### "# Developpement-Front-End-moderne-avec-React-_TP4"
 
-## Available Scripts
+#### Objectif :
+  Ce TP vous permet de consolider toutes les notions vues précédemment :
+   * Création de composants fonctionnels
+   * Gestion du state avec useState
+   * Gestion des événements utilisateurs
+   * Navigation avec React Router
+   * Intégration de styles et de ressources
 
-In the project directory, you can run:
+#### Création de projet  
 
-### `npm start`
+<img width="959" height="503" alt="TP4 REACT Etape01" src="https://github.com/user-attachments/assets/bf93d66b-f887-4ea6-b73a-11f1cf10834a" />
+<img width="958" height="503" alt="TP4 REACT Etape011" src="https://github.com/user-attachments/assets/d5dd1d53-2e86-47a9-b838-70286f98fbce" />
+<img width="959" height="478" alt="TP4 REACT Etape012" src="https://github.com/user-attachments/assets/a3aebcb3-03a6-4bba-92f2-c52adf47ee06" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Installation  de React Router
+<img width="959" height="504" alt="TP4 REACT Etape013" src="https://github.com/user-attachments/assets/71cb8422-5e37-4876-be30-26e8d6b4e8c5" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#### Option A : To-Do List interactive 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##### Objectifs
+      * Ajouter des tâches
+      * Afficher et cocher les tâches terminées
+      * Supprimer des tâches
 
-### `npm run build`
+##### Lancement 
+<img width="959" height="476" alt="TP4 REACT Etape02" src="https://github.com/user-attachments/assets/68c1a89b-3f29-4e74-97ea-432ec33c1d64" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##### Exercices complémentaires
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+###### Installation de Boostrap
+<img width="959" height="505" alt="TP4 REACT Etape03 installation boostrap" src="https://github.com/user-attachments/assets/eb8893d8-5bde-48bc-9a98-2702964c3a43" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+###### Version Finale
+<img width="959" height="481" alt="TP4 REACT Etape04 apercu final 1" src="https://github.com/user-attachments/assets/6db3ad49-c83d-4435-9a18-eb69f40756a7" />
+<img width="959" height="475" alt="TP4 REACT Etape04 apercu final 2" src="https://github.com/user-attachments/assets/59c78336-67b6-493e-b987-7410e0029c43" />
+<img width="959" height="475" alt="TP4 REACT Etape04 apercu final 3" src="https://github.com/user-attachments/assets/b5146109-fea1-4e6f-b3be-16444c1fcc77" />
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Developpement-Front-End-moderne-avec-React-_TP4" 
